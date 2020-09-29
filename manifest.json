@@ -1,0 +1,9 @@
+{
+  "domain": "aqara_motion",
+  "name": "Aqara Motion Sensor Reset",
+  "documentation": "https://github.com/abacao/appdaemon_aqara_motion_sensors",
+  "issue_tracker": "https://github.com/abacao/appdaemon_aqara_motion_sensors",
+  "dependencies": [],
+  "codeowners": ["@abacao"],
+  "requirements": []
+}
